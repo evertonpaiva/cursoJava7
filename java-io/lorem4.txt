@@ -1,3 +1,3 @@
 Teste de escrita em arquivo
 
-Mais conteúdo no fim
+Mais conteúdo no fim áéíóú
