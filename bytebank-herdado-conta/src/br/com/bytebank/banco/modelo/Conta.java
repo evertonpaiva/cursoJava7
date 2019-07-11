@@ -1,12 +1,14 @@
 package br.com.bytebank.banco.modelo;
 
+import java.io.Serializable;
+
 /**
  * Classe que representa o modelo de uma conta
  * 
  * @author evertonpaiva
  *
  */
-public abstract class Conta {
+public abstract class Conta implements Serializable {
 
     protected double saldo;
     private int agencia;
